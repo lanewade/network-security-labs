@@ -22,6 +22,10 @@ IPv4 subnetting practice covering CIDR notation, subnet masks, block sizes, netw
 
 Packet analysis practice covering protocol identification, display filters, TCP handshakes, DNS, DHCP, ICMP, ports, troubleshooting, and basic network traffic analysis.
 
+### [Routing & Switching Fundamentals](networking/routing-switching/routing-switching-fundamentals.md)
+
+Routing and switching practice covering MAC tables, ARP, routing tables, longest prefix match, static and dynamic routing, RIP, OSPF, VLANs, STP, LACP, HSRP, and structured troubleshooting.
+
 ## Networking Knowledge
 
 - TCP/IP

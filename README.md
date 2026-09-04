@@ -42,6 +42,10 @@ Security-focused practice covering firewalls, ACL rule order, default-deny polic
 
 Security+ identity and access practice covering authentication, authorization, AAA, MFA, SSO, federation, Kerberos, RADIUS, TACACS+, RBAC, ABAC, least privilege, account lifecycle management, and Zero Trust concepts.
 
+### [Threats & Vulnerabilities](security/threats-vulnerabilities/threats-vulnerabilities.md)
+
+Security+ threat and vulnerability practice covering attack surfaces, malware, social engineering, credential attacks, network threats, vulnerability management, CVEs, CVSS, patching, system hardening, and defense in depth.
+
 ## Networking Knowledge
 
 - TCP/IP
@@ -178,11 +182,13 @@ network-security-labs/
 └── security/
     ├── network-security/
     │   └── firewalls-acls-access-control.md
-    └── identity-access/
-        └── identity-access-management.md
+    ├── identity-access/
+    │   └── identity-access-management.md
+    └── threats-vulnerabilities/
+        └── threats-vulnerabilities.md
 ```
 
-I will continue expanding this structure as I complete additional networking and Security+ labs.
+I will continue expanding this structure as I complete additional labs
 
 ## Current Focus
 

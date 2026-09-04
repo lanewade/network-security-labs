@@ -38,13 +38,6 @@ Wireless networking and Wi-Fi security practice covering 802.11 standards, 2.4/5
 
 Security-focused practice covering firewalls, ACL rule order, default-deny policies, `deny any any`, port and protocol filtering, segmentation, least privilege, RBAC, NAC, Zero Trust concepts, and troubleshooting.
 
-### [Identity & Access Management](security/identity-access/identity-access-management.md)
-
-Security+ identity and access practice covering authentication, authorization, AAA, MFA, SSO, federation, Kerberos, RADIUS, TACACS+, RBAC, ABAC, least privilege, account lifecycle management, and Zero Trust concepts.
-
-### [Threats & Vulnerabilities](security/threats-vulnerabilities/threats-vulnerabilities.md)
-
-Security+ threat and vulnerability practice covering attack surfaces, malware, social engineering, credential attacks, network threats, vulnerability management, CVEs, CVSS, patching, system hardening, and defense in depth.
 
 ## Networking Knowledge
 

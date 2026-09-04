@@ -26,6 +26,10 @@ Packet analysis practice covering protocol identification, display filters, TCP 
 
 Routing and switching practice covering MAC tables, ARP, routing tables, longest prefix match, static and dynamic routing, RIP, OSPF, VLANs, STP, LACP, HSRP, and structured troubleshooting.
 
+### [VLANs & Network Segmentation](networking/vlans/vlan-network-segmentation.md)
+
+VLAN and segmentation practice covering broadcast domains, access and trunk ports, 802.1Q tagging, inter-VLAN routing, guest and management networks, VLAN security, and troubleshooting.
+
 ## Networking Knowledge
 
 - TCP/IP

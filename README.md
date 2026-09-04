@@ -32,11 +32,15 @@ VLAN and segmentation practice covering broadcast domains, access and trunk port
 
 ### [Wireless Networking & Wi-Fi Security](networking/wireless/wireless-networking-wifi-security.md)
 
-Wireless networking and Wi-Fi security practice covering 802.11 standards, 2.4/5/6 GHz bands, channels, SSIDs/BSSIDs, MIMO, OFDMA, WPA2/WPA3, guest networks, wireless threats, interference, and structured troubleshooting.
+Wireless networking and Wi-Fi security practice covering 802.11 standards, frequency bands, channels, SSIDs/BSSIDs, MIMO, OFDMA, WPA2/WPA3, guest networks, interference, and structured troubleshooting.
 
 ### [Firewalls, ACLs & Access Control](security/network-security/firewalls-acls-access-control.md)
 
-Security-focused practice covering firewalls, ACL rule order, default-deny policies, `deny any any`, port and protocol filtering, segmentation, least privilege, RBAC, NAC, Zero Trust concepts, and troubleshooting.
+Network security practice covering firewalls, ACL rule order, default-deny policies, port and protocol filtering, network segmentation, access control, and troubleshooting.
+
+### [DNS & DHCP Network Services](networking/network-services/dns-dhcp-network-services.md)
+
+Network services practice covering DNS resolution, DNS records and zones, DHCP scopes and leases, DORA, DHCP relay, APIPA, IPv6 addressing methods, and structured DNS/DHCP troubleshooting.
 
 
 ## Networking Knowledge
@@ -170,18 +174,16 @@ network-security-labs/
 │   │   └── routing-switching-fundamentals.md
 │   ├── vlans/
 │   │   └── vlan-network-segmentation.md
-│   └── wireless/
-│       └── wireless-networking-wifi-security.md
+│   ├── wireless/
+│   │   └── wireless-networking-wifi-security.md
+│   └── network-services/
+│       └── dns-dhcp-network-services.md
 └── security/
-    ├── network-security/
-    │   └── firewalls-acls-access-control.md
-    ├── identity-access/
-    │   └── identity-access-management.md
-    └── threats-vulnerabilities/
-        └── threats-vulnerabilities.md
+    └── network-security/
+        └── firewalls-acls-access-control.md
 ```
 
-I will continue expanding this structure as I complete additional labs
+I will continue expanding this repository as I complete additional labs
 
 ## Current Focus
 

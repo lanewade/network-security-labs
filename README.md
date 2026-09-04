@@ -30,6 +30,10 @@ Routing and switching practice covering MAC tables, ARP, routing tables, longest
 
 VLAN and segmentation practice covering broadcast domains, access and trunk ports, 802.1Q tagging, inter-VLAN routing, guest and management networks, VLAN security, and troubleshooting.
 
+### [Wireless Networking & Wi-Fi Security](networking/wireless/wireless-networking-wifi-security.md)
+
+Wireless networking and Wi-Fi security practice covering 802.11 standards, 2.4/5/6 GHz bands, channels, SSIDs/BSSIDs, MIMO, OFDMA, WPA2/WPA3, guest networks, wireless threats, interference, and structured troubleshooting.
+
 ## Networking Knowledge
 
 - TCP/IP

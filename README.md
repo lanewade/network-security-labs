@@ -149,36 +149,27 @@ As I progress through CompTIA Security+, I plan to document exercises involving:
 - Data protection
 - Business continuity and disaster recovery
 
-## Planned Repository Structure
+## Current Repository Structure
 
-As the repository grows, I plan to organize it into sections similar to:
+The repository currently includes:
 
 ```text
 network-security-labs/
 ├── README.md
-├── networking/
-│   ├── subnetting/
-│   ├── routing-switching/
-│   ├── vlans/
-│   ├── dns-dhcp/
-│   ├── wireless/
-│   └── troubleshooting/
-├── packet-analysis/
-│   ├── wireshark/
-│   ├── tcp-ip/
-│   └── network-traffic/
-├── security/
-│   ├── network-security/
-│   ├── identity-access/
-│   ├── incident-response/
-│   ├── log-analysis/
-│   └── security-controls/
-└── security-plus/
-    ├── threats-vulnerabilities/
-    ├── security-architecture/
-    ├── security-operations/
-    └── risk-governance/
+└── networking/
+    ├── subnetting/
+    │   └── subnetting-practice.md
+    ├── packet-analysis/
+    │   └── wireshark-practice.md
+    ├── routing-switching/
+    │   └── routing-switching-fundamentals.md
+    ├── vlans/
+    │   └── vlan-network-segmentation.md
+    └── wireless/
+        └── wireless-networking-wifi-security.md
 ```
+
+I will continue expanding this structure as I complete additional networking and Security+ labs.
 
 ## Current Focus
 

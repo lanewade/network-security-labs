@@ -18,6 +18,10 @@ This repository will grow as I complete additional labs, exercises, troubleshoot
 
 IPv4 subnetting practice covering CIDR notation, subnet masks, block sizes, network IDs, broadcast addresses, usable host ranges, host calculations, and subnetting in both the third and fourth octets.
 
+### [Wireshark Packet Analysis](networking/packet-analysis/wireshark-practice.md)
+
+Packet analysis practice covering protocol identification, display filters, TCP handshakes, DNS, DHCP, ICMP, ports, troubleshooting, and basic network traffic analysis.
+
 ## Networking Knowledge
 
 - TCP/IP

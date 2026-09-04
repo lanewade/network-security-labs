@@ -34,6 +34,10 @@ VLAN and segmentation practice covering broadcast domains, access and trunk port
 
 Wireless networking and Wi-Fi security practice covering 802.11 standards, 2.4/5/6 GHz bands, channels, SSIDs/BSSIDs, MIMO, OFDMA, WPA2/WPA3, guest networks, wireless threats, interference, and structured troubleshooting.
 
+### [Firewalls, ACLs & Access Control](security/network-security/firewalls-acls-access-control.md)
+
+Security-focused practice covering firewalls, ACL rule order, default-deny policies, `deny any any`, port and protocol filtering, segmentation, least privilege, RBAC, NAC, Zero Trust concepts, and troubleshooting.
+
 ## Networking Knowledge
 
 - TCP/IP
@@ -156,17 +160,20 @@ The repository currently includes:
 ```text
 network-security-labs/
 ├── README.md
-└── networking/
-    ├── subnetting/
-    │   └── subnetting-practice.md
-    ├── packet-analysis/
-    │   └── wireshark-practice.md
-    ├── routing-switching/
-    │   └── routing-switching-fundamentals.md
-    ├── vlans/
-    │   └── vlan-network-segmentation.md
-    └── wireless/
-        └── wireless-networking-wifi-security.md
+├── networking/
+│   ├── subnetting/
+│   │   └── subnetting-practice.md
+│   ├── packet-analysis/
+│   │   └── wireshark-practice.md
+│   ├── routing-switching/
+│   │   └── routing-switching-fundamentals.md
+│   ├── vlans/
+│   │   └── vlan-network-segmentation.md
+│   └── wireless/
+│       └── wireless-networking-wifi-security.md
+└── security/
+    └── network-security/
+        └── firewalls-acls-access-control.md
 ```
 
 I will continue expanding this structure as I complete additional networking and Security+ labs.

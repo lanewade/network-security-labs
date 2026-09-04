@@ -12,6 +12,12 @@ I am currently expanding that knowledge through Security+ studies covering threa
 
 This repository will grow as I complete additional labs, exercises, troubleshooting scenarios, and technical documentation.
 
+## Completed Labs
+
+### [Subnetting Practice](networking/subnetting/subnetting-practice.md)
+
+IPv4 subnetting practice covering CIDR notation, subnet masks, block sizes, network IDs, broadcast addresses, usable host ranges, host calculations, and subnetting in both the third and fourth octets.
+
 ## Networking Knowledge
 
 - TCP/IP

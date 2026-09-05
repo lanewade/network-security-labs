@@ -46,6 +46,10 @@ Network services practice covering DNS resolution, DNS records and zones, DHCP s
 
 VPN and remote-access practice covering remote-access and site-to-site VPNs, IPsec, IKE, NAT-T, full and split tunneling, RADIUS, MFA, SSH, RDP, routing, DNS, and structured VPN troubleshooting.
 
+### [Network Monitoring — SNMP, Syslog, NetFlow & IPFIX](networking/network-monitoring/network-monitoring-snmp-syslog-netflow-ipfix.md)
+
+Network monitoring practice covering SNMP polling and traps, Syslog, NetFlow/IPFIX, baselines, performance metrics, SPAN ports, network TAPs, bandwidth analysis, alerting, and structured troubleshooting.
+
 
 ## Networking Knowledge
 
@@ -182,14 +186,16 @@ network-security-labs/
 │   │   └── wireless-networking-wifi-security.md
 │   ├── network-services/
 │   │   └── dns-dhcp-network-services.md
-│   └── vpn-remote-access/
-│       └── vpn-remote-access.md
+│   ├── vpn-remote-access/
+│   │   └── vpn-remote-access.md
+│   └── network-monitoring/
+│       └── network-monitoring-snmp-syslog-netflow-ipfix.md
 └── security/
     └── network-security/
         └── firewalls-acls-access-control.md
 ```
 
-I will continue expanding this repository as I complete additional labs
+I will continue expanding this repository as I complete additional labs.
 
 ## Current Focus
 

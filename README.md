@@ -42,6 +42,10 @@ Network security practice covering firewalls, ACL rule order, default-deny polic
 
 Network services practice covering DNS resolution, DNS records and zones, DHCP scopes and leases, DORA, DHCP relay, APIPA, IPv6 addressing methods, and structured DNS/DHCP troubleshooting.
 
+### [VPNs & Remote Access](networking/vpn-remote-access/vpn-remote-access.md)
+
+VPN and remote-access practice covering remote-access and site-to-site VPNs, IPsec, IKE, NAT-T, full and split tunneling, RADIUS, MFA, SSH, RDP, routing, DNS, and structured VPN troubleshooting.
+
 
 ## Networking Knowledge
 
@@ -176,8 +180,10 @@ network-security-labs/
 │   │   └── vlan-network-segmentation.md
 │   ├── wireless/
 │   │   └── wireless-networking-wifi-security.md
-│   └── network-services/
-│       └── dns-dhcp-network-services.md
+│   ├── network-services/
+│   │   └── dns-dhcp-network-services.md
+│   └── vpn-remote-access/
+│       └── vpn-remote-access.md
 └── security/
     └── network-security/
         └── firewalls-acls-access-control.md

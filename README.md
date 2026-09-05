@@ -54,6 +54,10 @@ Network monitoring practice covering SNMP polling and traps, Syslog, NetFlow/IPF
 
 High-availability and redundancy practice covering HSRP, VRRP, STP, RSTP, LACP, link aggregation, failover, redundant WAN links, power redundancy, convergence, monitoring, and structured troubleshooting.
 
+### [Network Troubleshooting Tools & Methodology](networking/troubleshooting/network-troubleshooting-tools-methodology.md)
+
+Network troubleshooting practice covering structured methodology, OSI-based problem isolation, ping, traceroute, ipconfig, DNS tools, routing tables, port testing, packet analysis, Nmap, physical testing tools, escalation, baselines, logging, and documentation.
+
 
 ## Networking Knowledge
 
@@ -194,8 +198,10 @@ network-security-labs/
 │   │   └── vpn-remote-access.md
 │   ├── network-monitoring/
 │   │   └── network-monitoring-snmp-syslog-netflow-ipfix.md
-│   └── high-availability/
-│       └── high-availability-redundancy.md
+│   ├── high-availability/
+│   │   └── high-availability-redundancy.md
+│   └── troubleshooting/
+│       └── network-troubleshooting-tools-methodology.md
 └── security/
     └── network-security/
         └── firewalls-acls-access-control.md

@@ -50,6 +50,10 @@ VPN and remote-access practice covering remote-access and site-to-site VPNs, IPs
 
 Network monitoring practice covering SNMP polling and traps, Syslog, NetFlow/IPFIX, baselines, performance metrics, SPAN ports, network TAPs, bandwidth analysis, alerting, and structured troubleshooting.
 
+### [High Availability & Redundancy](networking/high-availability/high-availability-redundancy.md)
+
+High-availability and redundancy practice covering HSRP, VRRP, STP, RSTP, LACP, link aggregation, failover, redundant WAN links, power redundancy, convergence, monitoring, and structured troubleshooting.
+
 
 ## Networking Knowledge
 
@@ -188,8 +192,10 @@ network-security-labs/
 │   │   └── dns-dhcp-network-services.md
 │   ├── vpn-remote-access/
 │   │   └── vpn-remote-access.md
-│   └── network-monitoring/
-│       └── network-monitoring-snmp-syslog-netflow-ipfix.md
+│   ├── network-monitoring/
+│   │   └── network-monitoring-snmp-syslog-netflow-ipfix.md
+│   └── high-availability/
+│       └── high-availability-redundancy.md
 └── security/
     └── network-security/
         └── firewalls-acls-access-control.md
